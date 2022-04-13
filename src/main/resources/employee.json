@@ -1,0 +1,38 @@
+{
+  "name": "Evdosiy",
+  "age": "66",
+  "email": "evdosiy@tut.by",
+  "address": {
+    "street": "Esenina street"
+  },
+  "books": [
+    {
+      "title": "JAVA",
+      "author": {
+        "name": "Ivan",
+        "surname": "Ivanov"
+      }
+    },
+    {
+      "title": "GRADLE",
+      "author": {
+        "name": "Sidr",
+        "surname": "Sidorov"
+      }
+    }
+  ],
+  "phones": [
+    {
+      "type": "mob",
+      "phone": "2542525211"
+    },
+    {
+      "type": "dom",
+      "phone": "4335213"
+    }
+  ],
+  "pets": {
+    "Cat": "Barbos",
+    "Dog": "Sharik"
+  }
+}
