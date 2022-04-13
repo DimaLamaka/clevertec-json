@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Phone {
-    private String type;
-    private String number;
+public class Author {
+    private String name;
+    private String surname;
 }
